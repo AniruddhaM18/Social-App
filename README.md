@@ -97,6 +97,6 @@ Replace the placeholder values with your actual Appwrite credentials. You can ob
 npm run dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) in your browser to view the project.
+Open [http://localhost:3000](http://localhost:3000) in the browser to view the project.
 
 #
